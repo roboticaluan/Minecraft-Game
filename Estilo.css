@@ -1,0 +1,58 @@
+body{
+    background-image:url(beautiful-minecraft-pink-mountain-jeiwb83n9yvg474y\ montanha.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+}
+div{
+    width: 850px; ;
+height: 500px;
+background-color: black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(59, 206, 108);
+border-radius: 10px;
+border: solid;
+}
+div{
+    width: 500px;
+    height: 450px
+
+}
+.bloco-externo{
+    background-color: rgb(3, 42, 58);
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+.bloco-interno {
+    width: 100px;
+    height: 100px;
+    margin: 8px;
+    font-size: 80px;
+    text-align: center;
+}
+.bloco1{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    font-size: 80px;
+    text-align: center;
+    background-image: url(wardem\ quadrado.jfif);
+    background-size: 100px;
+    background-position-y: center;
+}
+.bloco2{
+    background-image: url(steve.png);
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    font-size:80px ;
+    text-align: center;
+}
+video{
+    width: 500px;
+}
